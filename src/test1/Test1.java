@@ -18,6 +18,7 @@ public class Test1 {
         System.out.println("Hello Git");
         int x = 0 ;
         System.out.println(x);
+        System.out.println("sawaddee");
     }
     
 }
